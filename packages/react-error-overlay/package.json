@@ -1,5 +1,5 @@
 {
-  "name": "react-error-overlay",
+  "name": "@juan-saavedra/react-error-overlay",
   "version": "4.0.0",
   "description": "An overlay for displaying stack frames.",
   "main": "lib/index.js",
@@ -10,7 +10,7 @@
     "build": "cross-env NODE_ENV=development node build.js",
     "build:prod": "cross-env NODE_ENV=production node build.js"
   },
-  "repository": "facebook/create-react-app",
+  "repository": "juan-saavedra/create-react-app",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/facebook/create-react-app/issues"
